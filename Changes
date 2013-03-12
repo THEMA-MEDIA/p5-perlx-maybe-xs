@@ -4,3 +4,7 @@ Revision history for Perl extension PerlX::Maybe::XS.
 
  - initial release; feature compatible with PerlX::Maybe 0.003.
 
+0.004	2013-03-13
+
+ - (Bugfix) prototype for `provides` function.
+

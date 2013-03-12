@@ -46,7 +46,7 @@ provided (chk, x, y, ...)
 	SV *chk
 	SV *x
 	SV *y
-PROTOTYPE: $$@
+PROTOTYPE: $$$@
 PPCODE:
 {
 	int i;
