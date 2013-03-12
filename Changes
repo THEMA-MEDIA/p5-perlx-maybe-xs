@@ -1,0 +1,6 @@
+Revision history for Perl extension PerlX::Maybe::XS.
+
+0.003	2013-03-13
+
+ - initial release; feature compatible with PerlX::Maybe 0.003.
+
