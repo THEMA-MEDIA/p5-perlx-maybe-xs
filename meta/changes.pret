@@ -15,3 +15,9 @@
 	changeset [
 		item "Fix README."^^Bugfix;
 	].
+
+`PerlX-Maybe-XS 0.999_01 cpan:TOBYINK`
+	issued  2013-08-10;
+	changeset [
+		item "Switch from plain ExtUtils::MakeMaker to Dist::Inkt."^^Packaging;
+	].
