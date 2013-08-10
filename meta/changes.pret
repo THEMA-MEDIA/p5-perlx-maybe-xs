@@ -1,0 +1,17 @@
+# This file acts as the project's changelog.
+
+`PerlX-Maybe-XS 0.003 cpan:TOBYINK`
+	issued  2013-03-13;
+	label   "Initial release; feature compatible with PerlX::Maybe 0.003".
+
+`PerlX-Maybe-XS 0.004 cpan:TOBYINK`
+	issued  2013-03-13;
+	changeset [
+		item "Prototype for `provided` function."^^Bugfix;
+	].
+
+`PerlX-Maybe-XS 0.005 cpan:TOBYINK`
+	issued  2013-03-13;
+	changeset [
+		item "Fix README."^^Bugfix;
+	].
