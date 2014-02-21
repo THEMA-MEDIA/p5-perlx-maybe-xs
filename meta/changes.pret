@@ -34,4 +34,5 @@
 			label "Recommend PerlX::Maybe, not Perl::Maybe!";
 			dcs:thanks cpan:KENTNL;
 			dcs:fixes RT#93227;
+		];
 	].
