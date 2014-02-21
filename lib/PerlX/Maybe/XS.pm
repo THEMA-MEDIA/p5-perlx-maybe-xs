@@ -14,7 +14,7 @@ our @EXPORT_OK = @{ $EXPORT_TAGS{all} };
 our @EXPORT    = @{ $EXPORT_TAGS{default} };
 
 our $AUTHORITY = 'cpan:TOBYINK';
-our $VERSION   = '1.000';
+our $VERSION   = '1.001';
 
 require XSLoader;
 XSLoader::load('PerlX::Maybe::XS', $VERSION);
@@ -44,7 +44,7 @@ Toby Inkster E<lt>tobyink@cpan.orgE<gt>.
 
 =head1 COPYRIGHT AND LICENCE
 
-This software is copyright (c) 2013 by Toby Inkster.
+This software is copyright (c) 2013-2014 by Toby Inkster.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.

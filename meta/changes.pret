@@ -25,3 +25,13 @@
 `PerlX-Maybe-XS 1.000 cpan:TOBYINK`
 	issued  2013-08-27;
 	comment "No functional changes.".
+
+`PerlX-Maybe-XS 1.001 cpan:TOBYINK`
+	issued  2014-02-21;
+	changeset [
+		item [
+			a dcs:Packaging;
+			label "Recommend PerlX::Maybe, not Perl::Maybe!";
+			dcs:thanks cpan:KENTNL;
+			dcs:fixes RT#93227;
+	].
