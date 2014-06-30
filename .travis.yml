@@ -27,6 +27,8 @@ install:
 before_script:
   - coverage-setup
 script:
-  - prove -l $(test-dirs)
+  - perl Makefile.PL
+  - make
+  - make test
 after_success:
   - coverage-report
